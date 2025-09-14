@@ -1,5 +1,3 @@
-:
-
 📌 Web Scraping MyAnimeList - Seiyuu & Anime Popularity Analysis
 
 Proyek ini dibuat untuk melakukan web scraping data dari MyAnimeList dengan tujuan menganalisis hubungan popularitas Seiyuu (pengisi suara) dengan popularitas anime.
