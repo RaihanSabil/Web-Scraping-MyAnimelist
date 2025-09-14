@@ -4,27 +4,21 @@ Proyek ini dibuat untuk melakukan web scraping data dari MyAnimeList dengan tuju
 
 🚀 Fitur Utama
 
-Menggunakan Python & BeautifulSoup untuk scraping data dari MyAnimeList
-
-Mengambil informasi seputar Seiyuu, Anime, dan Popularity Ranking
-
-Melakukan data cleaning & preprocessing
-
-Visualisasi hubungan antara popularitas Seiyuu dan Anime
+- Menggunakan Python & BeautifulSoup untuk scraping data dari MyAnimeList
+- Mengambil informasi seputar Seiyuu, Anime, dan Popularity Ranking
+- Melakukan data cleaning & preprocessing
+- Visualisasi hubungan antara popularitas Seiyuu dan Anime
 
 📂 Struktur Proyek
 
-Scraping (1).ipynb → Notebook utama untuk scraping dan analisis
+Scraping.ipynb → Notebook utama untuk scraping dan analisis
 
 🔧 Tools & Library
 
-Python
-
-BeautifulSoup
-
-Pandas
-
-Matplotlib / Seaborn
+- Python
+- BeautifulSoup
+- Pandas
+- Matplotlib / Seaborn
 
 🎯 Tujuan
 
